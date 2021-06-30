@@ -1,0 +1,49 @@
+body
+{
+    text-align: center;
+    padding:inherit;
+}
+#school_heading
+{
+    font-size: 100px;
+}
+#aboutschool
+{
+    
+    background: linear-gradient(#60abeb 0%, #27ae60 100%);
+}
+#specifications
+{
+    background: linear-gradient(lightyellow, lightgreen, lightyellow)
+}
+#facility
+{
+    background: linear-gradient(green, lightcyan, green)
+}
+#my_navbar
+{
+    background: grey;
+    color: white;
+}
+#school_heading
+{
+    color: crimson;
+    font-size: 200px;
+    font-family: garamond;
+
+}
+principle
+{
+    color: aqua;
+    font-family: fangsong;
+    font-size: 50px;
+}
+aboutschool hr
+{
+    color: blue
+}
+principle_image
+{
+    border-image: url(istockphoto-162714310-612x612) 30 round;
+    border-width: inherit;
+}
